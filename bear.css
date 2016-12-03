@@ -1,0 +1,75 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background: url(lake.jpg) no-repeat fixed center;
+	font-family: Georgia, serif;
+	color: #E0FFFF;
+}
+
+
+#bearHeader {
+	color: #D2691E;
+	text-align: center;
+}
+
+#bearHeader h1{
+	font-size: 300%;
+}
+
+#bearHeader img{
+	margin-top: 40px;
+}
+
+#aboutBears {
+	margin-top: 30px;
+}
+
+#aboutBears a {
+	text-decoration: none;
+	color: #EE82EE;
+}
+
+#bearBox{
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+#bearFacts {
+	margin-top: 35px;
+}
+
+#bearFacts ul {
+	list-style: none;
+}
+
+#bearTypes {
+	margin-top: 35px;
+}
+
+#bearTypes ol {
+	list-style: none;
+}
+
+#nav {
+	text-align: center;
+	font-size: 200%;
+	margin-top: 90px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#nav li{
+	display: inline-block;
+	margin: 10px;
+}
+
+#nav a {
+	text-decoration: none;
+	color: white;
+}
+
+
+
